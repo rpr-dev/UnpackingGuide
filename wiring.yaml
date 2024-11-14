@@ -1,0 +1,13 @@
+connectors:
+  MOTORz:
+    pincount: 4
+  SOLDADURA:
+    pincount: 4
+  PLACAz:
+    pincount: 4
+
+cables:
+
+connections:
+  - - MOTORz: [1-4]
+    - SOLDADURA: [1-4]
